@@ -1,0 +1,13 @@
+Instance: Louie
+
+Attributes:
+breed_type: "street"
+age: 6
+favorite_toys: ["bird","feet","cat nip"]
+is_dog_friendly: false
+
+Methods:
+change_breed: breed_type = "house"
+calculate_human_years: age = 42
+add_new_toy: ["bird","feet","cat nip","mouse"]
+loves_dogs: is_dog_friendly = true
