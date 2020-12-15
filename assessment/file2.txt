@@ -1,0 +1,13 @@
+Instance: Bailey
+
+Attributes:
+breed_type: "labrador"
+age: 5
+favorite_toys: ["sloth","mr. avacaodo","hippie bear"]
+is_cat_friendly: true
+
+Methods:
+change_breed: breed_type = "basset hound"
+calculate_human_years: age = 35
+add_new_toy: ["sloth","mr. avacaodo","hippie bear","antler"]
+loves_cats: is_cat_friendly = true
