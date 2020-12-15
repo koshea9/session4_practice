@@ -1,0 +1,13 @@
+Class: Dog
+
+Attributes:
+breed_type: (string)
+age: (integer)
+favorite_toys: (array)
+is_cat_friendly: (boolean)
+
+Methods:
+change_breed: (changes breed_type)
+calculate_human_years: (age * 7)
+add_new_toy: (adds toy to favorite_toys array)
+loves_cats: (modify is_cat_friendly to true)
